@@ -44,7 +44,7 @@ Quando tiver TODOS os dados obrigatórios coletados, responda estruturadamente c
   "observacoes": "..."
 }
 
-Enquanto ainda estiver no processo de coleta, responda normalmente em formato de texto, de forma simpática e objetiva. Não peça todas as informações de uma única vez.
+Enquanto ainda estiver no processo de coleta, responda normalmente em formato de texto, de forma simpática e objetiva. Não peça todas as informações de uma única vez, peça uma de cada vez.
 """
 
 def conectar_banco():
